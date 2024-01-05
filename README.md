@@ -18,7 +18,7 @@
     <h2>How to Use 📝</h2>
     <ol>
         <li>Clone the repository:</li>
-        <code>git clone https://github.com/Sankalp-Pattanayak/To-Do-List-.git>
+        <code>git clone https://github.com/Sankalp-Pattanayak/To-Do-List-.git</code>
         <li>Run the app:</li>
         <code>python to_do_list.py</code>
         <li>Choose from the options displayed to manage your tasks!</li>
